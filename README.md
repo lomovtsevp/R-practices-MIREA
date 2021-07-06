@@ -1,1 +1,1 @@
-# R-practices-MIREA
+# R-language-practices-MIREA
